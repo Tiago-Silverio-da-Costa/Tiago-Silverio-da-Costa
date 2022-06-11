@@ -23,7 +23,9 @@
   <a href="https://www.instagram.com/tiago_silverio_da_costa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:tiagosilveriodacosta@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 ></a>
-   
+   <a href = "https://www.linkedin.com/in/tiago-silvério-da-costa-98972122a/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+  
+  
   ![Snake animation](https://github.com/Tiago-Silverio-da-Costa/Tiago-Silverio-da-Costa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
